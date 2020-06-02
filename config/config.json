@@ -1,0 +1,17 @@
+{
+	"development": { 
+		"google": {
+			"clientID": "467135243431-nblsqo392tbhk22kaflagtki9u0p2k64.apps.googleusercontent.com",
+			"clientSecret": "lfRVL6L923iIq0t1yRywC3cp",
+			"callbackURI": "http://localhost:3000/auth/google"
+		},
+		"facebook": {
+			"appID": "283164836209863",
+			"appSecret": "b446cf5c20b10e514d7dab71fe96be91",
+			"callbackURI": "http://localhost:3000/auth/facebook"
+		},
+		"session": {
+			"cookieKey": "xxx"
+		}
+	}
+}
